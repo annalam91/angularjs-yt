@@ -1,0 +1,23 @@
+{
+  "name": "angular_yt",
+  "version": "0.1.0",
+  "description": "YT Tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "browser-sync start --server --directory--files '**/*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annalam91/angularjs-yt.git"
+  },
+  "author": "Anna Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annalam91/angularjs-yt/issues"
+  },
+  "homepage": "https://github.com/annalam91/angularjs-yt#readme"
+}
